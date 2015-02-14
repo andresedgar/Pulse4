@@ -1,0 +1,166 @@
+@import url('normalize.css');
+
+
+figure{
+	margin: 0;
+}
+
+article{
+	background: #CEE3F6;
+}
+
+
+.container{
+	max-width: 980px;
+	margin: 0 auto;
+}
+.cabezal{
+	background: #2E2E2E;
+	color: white;
+	height: 3em;
+}
+.menutop
+{
+	float: right;
+	margin-top: 1em;
+	
+}
+
+.home{
+	display: inline-block;
+}
+
+
+.lista a{
+	color: white;
+	text-decoration: none;
+	
+}
+
+.lista li{
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.bordes{
+	border-right: 4px solid white;
+}
+
+.fila{
+	display: flex;
+	align-content: center;
+	margin: 5px;
+
+}
+
+.panel1{
+	width: 25%;
+}
+
+.panel2{
+	width: 50%;
+}
+
+.panel3{
+	width: 25%;
+	border: none;
+}
+
+.pic{
+	margin: 0;
+	flex: o 1 auto;
+	align-self: center;
+}
+
+.pic img{
+	width: 100%;
+
+
+
+}
+
+.panel4{
+	width: 50%;
+}
+
+.panel5{
+	width: 15%;
+
+}
+
+.panel6{
+	width: 35%;
+	border: none;
+}
+
+
+
+.txts
+{
+	margin: 0;
+
+
+}
+
+
+
+.txts p, h3{
+	margin: 0.5em 0 0 1em;
+	text-align: left;
+}
+
+.thumb{
+	text-align: center;
+}
+
+.parrafo1{
+	width: 60%;
+	padding: 0.5em;
+}
+
+.fotos{
+	width: 40%;
+
+
+}
+
+.fotos img{
+ margin-left: 1em;
+}
+
+
+.fila2{
+	display: inline-block;
+	width: 48%;
+	vertical-align: top;
+	margin: 0;
+	height: 450px;
+}
+.fotota{
+
+width: 49%;
+	display: inline-block;
+
+}
+
+
+.fotota img{
+	width: 100%;
+
+}
+
+.in{
+	display: inline-block;
+}
+
+.headers2, .headers3{
+	width: 40%;
+	display: table-cell;
+
+}
+
+.headers h2{
+	margin: 0;
+
+}
+

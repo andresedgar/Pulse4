@@ -1,0 +1,50 @@
+.cont{
+	display: table;
+	background: gray;
+	min-width: 920px;
+
+}
+
+.fila{
+	display: table-row;
+	text-align: center;
+
+}
+
+.cabeza{
+	background: peru;
+
+
+
+}
+
+
+.col1{
+
+	display: table-cell;
+	background: red;
+	width: 25%;
+}
+
+
+.contenido{
+	display: table-cell;
+	background: blue;
+	width: 50%;
+
+}
+
+
+.col2{
+	display: table-cell;
+	background: green;
+	width: 25%;
+
+}
+
+.foot{
+	display: table-row;
+	background: yellow;
+	text-align: center;
+	width: 100%;
+}
